@@ -8,10 +8,10 @@
 
 <picture>
 
-💻 I am a Full Stack Web Developer specilizing on Frontend Development<br/>
-📚 I have a Bachelor degree in Computer Science<br/>
-🌱 Passionate in learning new web technologies<br/>
-📝 Writing blogs in [Medium](https://medium.com/@hohin523)
+- 💻 I am a Full Stack Web Developer specilizing on Frontend Development<br/>
+- 📚 I have a Bachelor degree in Computer Science<br/>
+- 🌱 Passionate in learning new web technologies<br/>
+- 📝 Writing blogs in [Medium](https://medium.com/@hohin523)
 
 
 
