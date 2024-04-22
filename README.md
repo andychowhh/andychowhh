@@ -6,14 +6,10 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture>
-
 - 💻 I am a Full Stack Web Developer specilizing on Frontend Development<br/>
 - 📚 I have a Bachelor degree in Computer Science<br/>
 - 🌱 Passionate in learning new web technologies<br/>
 - 📝 Writing blogs in [Medium](https://medium.com/@hohin523)
-
-
 
 <h2 ><b>💻 Tech Stacks</b></h1>
 
